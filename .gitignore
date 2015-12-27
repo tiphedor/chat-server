@@ -28,3 +28,8 @@ node_modules
 
 # Keyfiles and certs
 *.pem
+
+
+
+#OSX Specific
+.DS_Store
